@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NHL Info</string>
+    <string name="view_data">View NHL Data</string>
+    <string name="nhl_info">NHL Info</string>
+</resources>
